@@ -1,0 +1,16 @@
+{
+    "name": "martindevnow/smartshelf",
+    "description": "The engineering models that exist in the back end of the smart shelf software",
+    "type": "library",
+    "license": "private",
+    "authors": [
+        {
+            "name": "Brianna Martin",
+            "email": "martin.dev.now@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.7.*"
+    }
+}
